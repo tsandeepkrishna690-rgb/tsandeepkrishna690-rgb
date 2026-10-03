@@ -75,5 +75,5 @@ employee attrition.
 - Flask / Streamlit
 
 ## 📫 Connect With Me
-LinkedIn: htts://www.linkedin.com/sandeep-krishna22
-GitHub: github.com/tsandeepkrishna690-rgb
+LinkedIn: https://www.linkedin.com/sandeep-krishna22
+-GitHub: https://github.com/tsandeepkrishna690-rgb
